@@ -5,4 +5,5 @@
 - infinity
 - vimium
 - xpath_helper
+- joplin web clipper
 
